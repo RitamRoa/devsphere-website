@@ -46,6 +46,10 @@ const routeList: RouteProps[] = [
         label: "Events",
     },
     {
+        href: "/santhe",
+        label: "Santhe",
+    },
+    {
         href: "#contact",
         label: "Contact",
     },
